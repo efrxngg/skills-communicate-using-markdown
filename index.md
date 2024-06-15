@@ -13,3 +13,8 @@ public static void main(String... args){
   System.out.println("Hello World")
 }
 ```
+Task to understand Basic Java
+
+- [ ] Read about Java Lang and Utils
+- [ ] Read about Collections
+- [ ] Read about Java I/O
